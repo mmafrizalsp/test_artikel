@@ -1,0 +1,54 @@
+{
+  "artikel_kesehatan": [
+    {
+      "judul": "Perilaku Saat ini Memengaruhi Kesehatan Anda hingga 20 Tahun ke Depan",
+      "detail": "Mengembangkan kebiasaan sehat sejak dini penting untuk mencegah masalah kesehatan. Penelitian di Jerman menunjukkan bahwa keputusan kesehatan hari ini memprediksi kesehatan 20 tahun mendatang.",
+      "link_foto": "[1]"
+    },
+    {
+      "judul": "Asah Kemampuan Otak dengan Tidur Siang",
+      "detail": "Tidur siang ternyata bermanfaat bagi kesehatan, termasuk mengurangi stres dan risiko penyakit jantung.",
+      "link_foto": "[2]"
+    },
+    {
+      "judul": "Waspada Efek Negatif Kecanduan Layanan Video Streaming",
+      "detail": "Kebiasaan menonton layanan video streaming bisa memiliki dampak negatif bagi kesehatan.",
+      "link_foto": "[2]"
+    },
+    {
+      "judul": "Tidak Merokok tapi Kena Kanker Paru, Kok Bisa?",
+      "detail": "Fakta membuktikan bahwa tidak merokok bukan berarti terbebas dari kanker paru-paru. Kenali kondisinya agar bisa mencegahnya.",
+      "link_foto": "[2]"
+    },
+    {
+      "judul": "Mengungkap Bahaya Minum Susu Mentah",
+      "detail": "Meskipun susu bermanfaat, susu mentah bisa mengundang bahaya bagi kesehatan.",
+      "link_foto": "[2]"
+    },
+    {
+      "judul": "Atasi Obesitas dengan Jamu, Amankah?",
+      "detail": "Minum jamu adalah salah satu cara menurunkan berat badan, namun perlu diperhatikan keamanannya.",
+      "link_foto": "[2]"
+    },
+    {
+      "judul": "Inilah Daftar Makanan Tinggi Asam Urat",
+      "detail": "Pola makan memengaruhi kadar asam urat dalam tubuh. Kenali makanan tinggi asam urat yang perlu diwaspadai.",
+      "link_foto": "[2]"
+    },
+    {
+      "judul": "Analisis Faktor-Faktor yang Mempengaruhi Kesehatan Masyarakat di Wilayah Urban",
+      "detail": "Studi tentang hubungan antara lingkungan urban dan kesehatan masyarakat.",
+      "link_foto": "[3]"
+    },
+    {
+      "judul": "Studi Hubungan Antara Pola Makan dan Kesehatan Gigi pada Remaja",
+      "detail": "Evaluasi pengaruh pola makan terhadap kesehatan gigi remaja.",
+      "link_foto": "[3]"
+    },
+    {
+      "judul": "Evaluasi Program Imunisasi Masyarakat terhadap Penyakit Tertentu",
+      "detail": "Penelitian tentang efektivitas program imunisasi dalam mencegah penyakit.",
+      "link_foto": "[3]"
+    }
+  ]
+}
