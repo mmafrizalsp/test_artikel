@@ -1,6 +1,7 @@
 {
   "artikel_kesehatan": [
     {
+      "id": "sfp+wTedy0eyIajjRfRJ0g==",
       "judul": "Perilaku Saat ini Memengaruhi Kesehatan Anda hingga 20 Tahun ke Depan",
       "detail": "Mengembangkan kebiasaan sehat sejak dini penting untuk mencegah masalah kesehatan. Penelitian di Jerman menunjukkan bahwa keputusan kesehatan hari ini memprediksi kesehatan 20 tahun mendatang.",
       "link_foto": "https://github.com/mmafrizalsp/RSKD_Mobile/blob/main/p1.jpeg?raw=true",
@@ -8,6 +9,7 @@
       "tanggal_upd": "2024-05-01 13:33:26"
     },
     {
+      "id": "5ZqGuOSvsU68q6TRbp5+5Q==",
       "judul": "Asah Kemampuan Otak dengan Tidur Siang",
       "detail": "Tidur siang ternyata bermanfaat bagi kesehatan, termasuk mengurangi stres dan risiko penyakit jantung.",
       "link_foto": "https://github.com/mmafrizalsp/RSKD_Mobile/blob/main/p2.jpeg?raw=true",
@@ -15,6 +17,7 @@
       "tanggal_upd": "2024-05-01 13:33:26"
     },
     {
+      "id": "9aaQ7OnWYkSsClj/XHj9+Q==",
       "judul": "Waspada Efek Negatif Kecanduan Layanan Video Streaming",
       "detail": "Kebiasaan menonton layanan video streaming bisa memiliki dampak negatif bagi kesehatan.",
       "link_foto": "https://github.com/mmafrizalsp/RSKD_Mobile/blob/main/p3.jpeg?raw=true",
@@ -22,6 +25,7 @@
       "tanggal_upd": "2024-05-01 13:33:26"
     },
     {
+      "id": "WSGr0eBxSkGlgDqUq/V64g==",
       "judul": "Tidak Merokok tapi Kena Kanker Paru, Kok Bisa?",
       "detail": "Fakta membuktikan bahwa tidak merokok bukan berarti terbebas dari kanker paru-paru. Kenali kondisinya agar bisa mencegahnya.",
       "link_foto": "https://github.com/mmafrizalsp/RSKD_Mobile/blob/main/p4.jpeg?raw=true",
@@ -29,6 +33,7 @@
       "tanggal_upd": "2024-05-01 13:33:26"
     },
     {
+      "id": "OLCASKTA0k+uwKiN7i7w1Q==",
       "judul": "Mengungkap Bahaya Minum Susu Mentah",
       "detail": "Meskipun susu bermanfaat, susu mentah bisa mengundang bahaya bagi kesehatan.",
       "link_foto": "https://github.com/mmafrizalsp/RSKD_Mobile/blob/main/p5.jpeg?raw=true",
@@ -36,6 +41,7 @@
       "tanggal_upd": "2024-05-01 13:33:26"
     },
     {
+      "id": "jgZ9+BllgUO64j1zS0tQ0Q==",
       "judul": "Atasi Obesitas dengan Jamu, Amankah?",
       "detail": "Minum jamu adalah salah satu cara menurunkan berat badan, namun perlu diperhatikan keamanannya.",
       "link_foto": "https://github.com/mmafrizalsp/RSKD_Mobile/blob/main/p6.jpeg?raw=true",
@@ -43,6 +49,7 @@
       "tanggal_upd": "2024-05-01 13:33:26"
     },
     {
+      "id": "LXi8LPm3kEC+N84N9o4Atw==",
       "judul": "Inilah Daftar Makanan Tinggi Asam Urat",
       "detail": "Pola makan memengaruhi kadar asam urat dalam tubuh. Kenali makanan tinggi asam urat yang perlu diwaspadai.",
       "link_foto": "https://github.com/mmafrizalsp/RSKD_Mobile/blob/main/p7.jpeg?raw=true",
@@ -50,6 +57,7 @@
       "tanggal_upd": "2024-05-01 13:33:26"
     },
     {
+      "id": "2GQKYB7lX0CRSb0t6/LoKg==",
       "judul": "Analisis Faktor-Faktor yang Mempengaruhi Kesehatan Masyarakat di Wilayah Urban",
       "detail": "Studi tentang hubungan antara lingkungan urban dan kesehatan masyarakat.",
       "link_foto": "https://github.com/mmafrizalsp/RSKD_Mobile/blob/main/p8.jpeg?raw=true",
@@ -57,6 +65,7 @@
       "tanggal_upd": "2024-05-01 13:33:26"
     },
     {
+      "id": "Ko8hJqWwDk+r7CQ6pWQGPw==",
       "judul": "Studi Hubungan Antara Pola Makan dan Kesehatan Gigi pada Remaja",
       "detail": "Evaluasi pengaruh pola makan terhadap kesehatan gigi remaja.",
       "link_foto": "https://github.com/mmafrizalsp/RSKD_Mobile/blob/main/p9.jpeg?raw=true",
@@ -64,6 +73,7 @@
       "tanggal_upd": "2024-05-01 13:33:26"
     },
     {
+      "id": "Vv7vsbLaS0+W3+fbdY7A4g==",
       "judul": "Evaluasi Program Imunisasi Masyarakat terhadap Penyakit Tertentu",
       "detail": "Penelitian tentang efektivitas program imunisasi dalam mencegah penyakit.",
       "link_foto": "https://github.com/mmafrizalsp/RSKD_Mobile/blob/main/p10.jpeg?raw=true",
